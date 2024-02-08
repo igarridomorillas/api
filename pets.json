@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Frida",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flacasitadelosanimales.com%2Fblog%2F30-razas-de-perros-peludos%2F&psig=AOvVaw1H7fAYvaxshpBgWa4PJlJv&ust=1706895305459000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC57NXWioQDFQAAAAAdAAAAABAD",
+    "species": "Caniche",
+    "adjectives": ["", ""],
+    "location": {
+      "province": "MAdrid",
+      "town": "Madrid",
+      "zipcode": "28005"
+    }
+  },
+  {
+    "name": "Totoro",
+    "image": "https://i.pinimg.com/originals/24/20/27/242027041932cc853ef2a49e1dff2b25.png",
+    "species": "Pomeranian",
+    "adjectives": ["independiente", "negro"],
+    "location": {
+      "province": "Ciudad Real",
+      "town": "Porzuna",
+      "zipcode": "13120"
+    }
+  },
+  {
+    "name": "Suso",
+    "image": "https://images.app.goo.gl/j4PMsvPZqADwg6PT8",
+    "species": "cocker español",
+    "adjectives": ["juguetón", "curioso"],
+    "location": {
+      "province": "Badajoz",
+      "town": "Almendralejo",
+      "zipcode": "06200"
+    }
+  },
+  {
+    "name": "Boquete",
+    "image": "https://www.diariocritico.com/fotos/1/355369_cat-5579221-1280_thumb_835.jpg",
+    "species": "Common Cat",
+    "adjectives": ["buena cazadora", "cariñosa"],
+    "location": {
+      "province": "Málaga",
+      "town": "Alhaurín de la Torre",
+      "zipcode": "29130"
+    }
+  },
+  {
+    "name": "Bills",
+    "image": "https://www.santevet.es/uploads/images/es_ES/articulos/gato_gordo_santevet.jpeg",
+    "species": "Gato",
+    "adjectives": ["Gordito", "Adorable"],
+    "location": {
+      "province": "Granada",
+      "town": "Granada",
+      "zipcode": "18006"
+    }
+  },
+  {
+    "name": "Mincha",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/bc/b9/54/el-axolote-es-simbolo.jpg?w=1200&h=-1&s=1",
+    "species": "anfibio",
+    "adjectives": ["bonico", "gracioso"],
+    "location": {
+      "province": "Madrid",
+      "town": "Madrid",
+      "zipcode": "28025"
+    }
+  },
+  {
+    "name": "Gatete",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fes%2Fimages%2Fretrato-de-gato-rubio-atigrado-con-ojos-verdes-tumbado-en-el-cesped-mirando-a-camara-sonriente%2F276895863&psig=AOvVaw2AmY75SAsSaDEJ-G90PZr1&ust=1706895444298000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDw75zXioQDFQAAAAAdAAAAABAE",
+    "species": "gato europeo",
+    "adjectives": ["rubio", "cariñoso"],
+    "location": {
+      "province": "Madrid",
+      "town": "Alcorcón",
+      "zipcode": "28039"
+    }
+  },
+  {
+    "name": "Riki",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos%2Fanimales&psig=AOvVaw3W22IEaK5qIK4NW_Kzyupn&ust=1706895279301000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjxsLfXioQDFQAAAAAdAAAAABAE",
+    "species": "Leon",
+    "adjectives": ["Bonico", " Jugueton"],
+    "location": {
+      "province": "Pontevedra",
+      "town": "Vigo",
+      "zipcode": "25369"
+    }
+  },
+  {
+    "name": "Josema", 
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnycJSV2icW6VVgTKl29YPqUODgN5BGSaxfA&usqp=CAU", 
+    "species": "cobaya",
+    "adjectives": ["velociraptor", "suavesito"],
+    "location": {
+      "province": "Badajoz",
+      "town": "Higuera de la percha",
+      "zipcode": "34541"
+    }
+  },
+  {
+    "name": "Txispas",
+    "image": "http://placekitten.com/200/200",
+    "species": "Gato",
+    "adjectives": ["cariñosa", "miedosa", "casera"],
+    "location": {
+      "province": "madrid",
+      "town": "madrid",
+      "zipcode": "28017"
+    }
+  },
+  {
+    "name": "Cato",
+    "image": "https://img.freepik.com/foto-gratis/lindo-gato-relajante-estudio_23-2150692717.jpg",
+    "species": "Gato",
+    "adjectives": ["molón", "juguetón", "divertido"],
+    "location": {
+      "province": "segovia",
+      "town": "Navafría",
+      "zipcode": "36050"
+    }
+  }
+]
